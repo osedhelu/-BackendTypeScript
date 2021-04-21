@@ -9,20 +9,21 @@ export class SocketService {
   public start(io: any) {
     io.on('connection', async (socket: Socket) => {
       const token = socket.handshake.headers['x-token'];
-      if (token === 'login') {
-            new IndexController(socket, io)
+      
+      console.log(token === "null")
+      if (token === "null") {
+            return new IndexController(socket, io)
     } else {
         const jwt = new Token()
         const {ok, message, data} = jwt.validar(token)
         if(ok) {
-          _console.info(`en linea ${data.NOMBRE}`)
-          new SeccionController(socket, io, data)
-        } else {
-          socket.emit('my_info',{
-            ok: false,
-            message
+          socket.emit('my_info', {
+            ok,
+            message: `Hola ${data.NOMBRE}`,
           })
-          _console.error('Error en el Token', message)
+          _console.info(data.NOMBRE)
+          new SeccionController(socket, io, data)
+
         }
       }
     });

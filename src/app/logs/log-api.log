@@ -705,3 +705,1813 @@
   label: undefined,
   metadata: {}
 }
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-21 11:12:30',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-21 11:13:47',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-21 11:17:50',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-21 11:17:50',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 11:17:54',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 11:18:03',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-21 11:21:30',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-21 11:21:33',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-21 11:21:33',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-21 11:21:51',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-21 11:21:51',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 11:21:55',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 11:22:06',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'en linea osedhelu',
+  level: 'info',
+  timestamp: '2021-04-21 11:22:40',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 11:22:40',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-21 11:23:03',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-21 11:23:04',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 11:23:05',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-21 11:23:48',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-21 11:23:49',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-21 11:23:49',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-21 11:25:42',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-21 11:25:43',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-21 11:25:45',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 11:25:48',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 11:26:00',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'en linea osedhelu',
+  level: 'info',
+  timestamp: '2021-04-21 11:26:33',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'en linea osedhelu',
+  level: 'info',
+  timestamp: '2021-04-21 11:26:34',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 11:26:35',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 11:26:35',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-21 11:26:54',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-21 11:26:54',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 11:26:55',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 11:27:10',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'en linea osedhelu',
+  level: 'info',
+  timestamp: '2021-04-21 11:28:13',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 11:28:14',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'en linea osedhelu',
+  level: 'info',
+  timestamp: '2021-04-21 11:28:14',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 11:28:14',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-21 11:28:35',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-21 11:28:35',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 11:28:36',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-21 11:31:10',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-21 11:32:13',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 11:33:07',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 11:33:16',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-21 11:38:26',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-21 11:39:07',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'en linea osedhelu',
+  level: 'info',
+  timestamp: '2021-04-21 12:50:01',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'en linea osedhelu',
+  level: 'info',
+  timestamp: '2021-04-21 12:50:02',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'en linea osedhelu',
+  level: 'info',
+  timestamp: '2021-04-21 12:50:02',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 12:50:04',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 12:50:05',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 12:50:05',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-21 14:28:25',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-21 14:45:33',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-21 14:46:26',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-21 14:48:11',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-21 14:49:27',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-21 14:49:50',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-21 14:50:15',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-21 14:51:15',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-21 14:52:02',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok',
+  level: 'warn',
+  timestamp: '2021-04-21 14:52:02',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok',
+  level: 'warn',
+  timestamp: '2021-04-21 14:52:02',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok',
+  level: 'warn',
+  timestamp: '2021-04-21 14:52:03',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok',
+  level: 'warn',
+  timestamp: '2021-04-21 14:52:03',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok',
+  level: 'warn',
+  timestamp: '2021-04-21 14:52:03',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok',
+  level: 'warn',
+  timestamp: '2021-04-21 14:52:03',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok',
+  level: 'warn',
+  timestamp: '2021-04-21 14:52:03',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok',
+  level: 'warn',
+  timestamp: '2021-04-21 14:52:03',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok',
+  level: 'warn',
+  timestamp: '2021-04-21 14:52:03',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok',
+  level: 'warn',
+  timestamp: '2021-04-21 14:52:03',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok',
+  level: 'warn',
+  timestamp: '2021-04-21 14:52:05',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok',
+  level: 'warn',
+  timestamp: '2021-04-21 14:52:05',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok',
+  level: 'warn',
+  timestamp: '2021-04-21 14:52:06',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok',
+  level: 'warn',
+  timestamp: '2021-04-21 14:52:06',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok',
+  level: 'warn',
+  timestamp: '2021-04-21 14:52:34',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok',
+  level: 'warn',
+  timestamp: '2021-04-21 14:52:34',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok',
+  level: 'warn',
+  timestamp: '2021-04-21 14:52:34',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok',
+  level: 'warn',
+  timestamp: '2021-04-21 14:52:34',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok',
+  level: 'warn',
+  timestamp: '2021-04-21 14:52:35',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok',
+  level: 'warn',
+  timestamp: '2021-04-21 14:52:35',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok',
+  level: 'warn',
+  timestamp: '2021-04-21 14:52:35',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 14:52:37',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok',
+  level: 'warn',
+  timestamp: '2021-04-21 14:52:41',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok',
+  level: 'warn',
+  timestamp: '2021-04-21 14:52:41',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok',
+  level: 'warn',
+  timestamp: '2021-04-21 14:52:41',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok',
+  level: 'warn',
+  timestamp: '2021-04-21 14:52:41',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok',
+  level: 'warn',
+  timestamp: '2021-04-21 14:52:41',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok',
+  level: 'warn',
+  timestamp: '2021-04-21 14:52:42',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'ok',
+  level: 'warn',
+  timestamp: '2021-04-21 14:52:42',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 14:52:42',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"11275798854","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 14:52:55',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 14:53:03',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-21 14:53:40',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-21 14:54:31',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 14:54:33',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:03:18',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:03:19',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:03:19',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:03:19',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:03:19',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:03:20',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:03:21',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:03:31',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:03:32',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:03:32',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:03:32',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:03:32',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:03:32',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:03:32',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:03:33',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:03:36',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error ----->>> Failed to connect to 192.168.10.11\\SQL2017 in 15000ms',
+  level: 'error',
+  timestamp: '2021-04-21 15:03:48',
+  label: undefined,
+  metadata: {
+    code: 'ETIMEOUT',
+    originalError: ConnectionError: Failed to connect to 192.168.10.11\SQL2017 in 15000ms
+        at ConnectionError (C:\Users\artdecon\Documents\backend-artdecon\node_modules\tedious\lib\errors.js:13:12)
+        at Connection.connectTimeout (C:\Users\artdecon\Documents\backend-artdecon\node_modules\tedious\lib\connection.js:1195:54)
+        at Timeout._onTimeout (C:\Users\artdecon\Documents\backend-artdecon\node_modules\tedious\lib\connection.js:1157:12)
+        at listOnTimeout (internal/timers.js:554:17)
+        at processTimers (internal/timers.js:497:7) {
+      code: 'ETIMEOUT'
+    },
+    name: 'ConnectionError',
+    stack: 'ConnectionError: Failed to connect to 192.168.10.11\\SQL2017 in 15000ms\n' +
+      '    at Connection.<anonymous> (C:\\Users\\artdecon\\Documents\\backend-artdecon\\node_modules\\mssql\\lib\\tedious\\connection-pool.js:68:17)\n' +
+      '    at Object.onceWrapper (events.js:422:26)\n' +
+      '    at Connection.emit (events.js:315:20)\n' +
+      '    at Connection.EventEmitter.emit (domain.js:467:12)\n' +
+      '    at Connection.connectTimeout (C:\\Users\\artdecon\\Documents\\backend-artdecon\\node_modules\\tedious\\lib\\connection.js:1195:10)\n' +
+      '    at Timeout._onTimeout (C:\\Users\\artdecon\\Documents\\backend-artdecon\\node_modules\\tedious\\lib\\connection.js:1157:12)\n' +
+      '    at listOnTimeout (internal/timers.js:554:17)\n' +
+      '    at processTimers (internal/timers.js:497:7)'
+  }
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:05:02',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:05:02',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:05:03',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:05:03',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:05:03',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:05:03',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:05:11',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:05:12',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:05:12',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:05:12',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:05:12',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:05:12',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:05:12',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:05:12',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"id_unidad":"00","seccion":"PL04"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:05:27',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"id_unidad":"00","seccion":"PL02"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:05:31',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"id_unidad":"00","seccion":"PL01"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:05:32',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"id_unidad":"00","seccion":"PL02"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:05:35',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"id_unidad":"00","seccion":"PL01"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:05:37',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:08:55',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:09:08',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:10:19',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:10:20',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:12:08',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:12:08',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:12:13',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-21 15:13:31',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '{"ID_UN":"00","USUARIO":"1127579854","CLAVE_SECUNDARIA":"","NOMBRE":"osedhelu","ID_ROL":"ADM","iat":1619034783,"exp":1619044863}',
+  level: 'info',
+  timestamp: '2021-04-21 15:13:32',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: true,
+  level: 'error',
+  timestamp: '2021-04-21 15:13:32',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:13:32',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '{"ID_UN":"00","USUARIO":"1127579854","CLAVE_SECUNDARIA":"","NOMBRE":"osedhelu","ID_ROL":"ADM","iat":1619034783,"exp":1619044863}',
+  level: 'info',
+  timestamp: '2021-04-21 15:13:32',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: true,
+  level: 'error',
+  timestamp: '2021-04-21 15:13:32',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:13:32',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-21 15:14:09',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-21 15:14:10',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:14:10',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-21 15:14:11',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:14:11',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:14:21',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:14:27',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:14:34',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:14:55',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:15:54',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:18:06',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:18:11',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:19:03',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:19:11',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:19:34',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-21 15:19:36',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:19:36',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:24:02',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:24:10',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"112759854","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:32:36',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:32:43',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-21 15:32:44',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:32:45',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-21 15:46:49',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-21 15:46:49',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:46:50',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:46:50',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-21 15:57:41',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:57:45',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-21 15:59:28',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 15:59:30',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-21 16:07:26',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 16:07:27',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-21 16:08:01',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 16:08:01',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-21 16:11:46',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-21 16:11:47',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 16:11:47',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-21 16:15:23',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 16:15:24',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-21 16:16:06',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 16:16:06',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-21 16:19:20',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 16:19:21',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-21 16:22:02',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 16:22:02',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-21 16:22:05',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 16:22:05',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 16:22:20',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-21 16:22:34',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 16:22:34',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-21 16:22:36',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 16:22:36',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-21 16:52:36',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 16:52:38',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 16:52:40',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"id_unidad":"00","seccion":"PL01"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 16:52:48',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"id_unidad":"00","seccion":"PL0101"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 16:52:51',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"id_unidad":"00","seccion":"PL010101"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 16:52:52',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"id_unidad":"00","seccion":"PL010102"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 16:52:53',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"id_unidad":"00","seccion":"PL010103"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 16:52:54',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"id_unidad":"00","seccion":"PL010102"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 16:52:55',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"id_unidad":"00","seccion":"PL010103"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 16:52:56',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 17:06:04',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-21 17:08:18',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 17:08:22',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-21 17:16:01',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-21 17:16:02',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 17:16:04',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-21 17:21:04',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error ----->>> Failed to connect to 192.168.10.11\\SQL2017 in 15000ms',
+  level: 'error',
+  timestamp: '2021-04-21 17:21:19',
+  label: undefined,
+  metadata: {
+    code: 'ETIMEOUT',
+    originalError: ConnectionError: Failed to connect to 192.168.10.11\SQL2017 in 15000ms
+        at ConnectionError (C:\Users\artdecon\Documents\backend-artdecon\node_modules\tedious\lib\errors.js:13:12)
+        at Connection.connectTimeout (C:\Users\artdecon\Documents\backend-artdecon\node_modules\tedious\lib\connection.js:1195:54)
+        at Timeout._onTimeout (C:\Users\artdecon\Documents\backend-artdecon\node_modules\tedious\lib\connection.js:1157:12)
+        at listOnTimeout (internal/timers.js:554:17)
+        at processTimers (internal/timers.js:497:7) {
+      code: 'ETIMEOUT'
+    },
+    name: 'ConnectionError',
+    stack: 'ConnectionError: Failed to connect to 192.168.10.11\\SQL2017 in 15000ms\n' +
+      '    at Connection.<anonymous> (C:\\Users\\artdecon\\Documents\\backend-artdecon\\node_modules\\mssql\\lib\\tedious\\connection-pool.js:68:17)\n' +
+      '    at Object.onceWrapper (events.js:422:26)\n' +
+      '    at Connection.emit (events.js:315:20)\n' +
+      '    at Connection.EventEmitter.emit (domain.js:467:12)\n' +
+      '    at Connection.connectTimeout (C:\\Users\\artdecon\\Documents\\backend-artdecon\\node_modules\\tedious\\lib\\connection.js:1195:10)\n' +
+      '    at Timeout._onTimeout (C:\\Users\\artdecon\\Documents\\backend-artdecon\\node_modules\\tedious\\lib\\connection.js:1157:12)\n' +
+      '    at listOnTimeout (internal/timers.js:554:17)\n' +
+      '    at processTimers (internal/timers.js:497:7)'
+  }
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-21 17:22:58',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 17:22:59',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 17:22:59',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-21 17:24:23',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-21 17:24:24',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 17:24:24',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 17:24:24',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-21 17:25:33',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-21 17:25:34',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 17:25:36',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 17:25:36',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 17:28:43',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"xtein","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 17:29:00',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Administrador Xtein',
+  level: 'info',
+  timestamp: '2021-04-21 17:29:02',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 17:29:02',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 17:29:09',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"id_unidad":"00","seccion":"PL02"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 17:33:45',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"id_unidad":"00","seccion":"PL01"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 17:33:45',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"id_unidad":"00","seccion":"ID01"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 17:33:47',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-21 17:34:31',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Administrador Xtein',
+  level: 'info',
+  timestamp: '2021-04-21 17:34:32',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-21 17:34:33',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 17:34:37',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 17:34:37',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error ----->>> Failed to connect to 192.168.10.11\\SQL2017 in 15000ms',
+  level: 'error',
+  timestamp: '2021-04-21 17:34:52',
+  label: undefined,
+  metadata: {
+    code: 'ETIMEOUT',
+    originalError: ConnectionError: Failed to connect to 192.168.10.11\SQL2017 in 15000ms
+        at ConnectionError (C:\Users\artdecon\Documents\backend-artdecon\node_modules\tedious\lib\errors.js:13:12)
+        at Connection.connectTimeout (C:\Users\artdecon\Documents\backend-artdecon\node_modules\tedious\lib\connection.js:1195:54)
+        at Timeout._onTimeout (C:\Users\artdecon\Documents\backend-artdecon\node_modules\tedious\lib\connection.js:1157:12)
+        at listOnTimeout (internal/timers.js:554:17)
+        at processTimers (internal/timers.js:497:7) {
+      code: 'ETIMEOUT'
+    },
+    name: 'ConnectionError',
+    stack: 'ConnectionError: Failed to connect to 192.168.10.11\\SQL2017 in 15000ms\n' +
+      '    at Connection.<anonymous> (C:\\Users\\artdecon\\Documents\\backend-artdecon\\node_modules\\mssql\\lib\\tedious\\connection-pool.js:68:17)\n' +
+      '    at Object.onceWrapper (events.js:422:26)\n' +
+      '    at Connection.emit (events.js:315:20)\n' +
+      '    at Connection.EventEmitter.emit (domain.js:467:12)\n' +
+      '    at Connection.connectTimeout (C:\\Users\\artdecon\\Documents\\backend-artdecon\\node_modules\\tedious\\lib\\connection.js:1195:10)\n' +
+      '    at Timeout._onTimeout (C:\\Users\\artdecon\\Documents\\backend-artdecon\\node_modules\\tedious\\lib\\connection.js:1157:12)\n' +
+      '    at listOnTimeout (internal/timers.js:554:17)\n' +
+      '    at processTimers (internal/timers.js:497:7)'
+  }
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-21 17:36:37',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-21 17:36:41',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Administrador Xtein',
+  level: 'info',
+  timestamp: '2021-04-21 17:36:41',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 17:36:42',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 17:36:42',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"id_unidad":"00","seccion":"PL02"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 17:38:07',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"id_unidad":"00","seccion":"PL01"}'`,
+  level: 'warn',
+  timestamp: '2021-04-21 17:38:07',
+  label: undefined,
+  metadata: {}
+}
