@@ -1,0 +1,693 @@
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"id_unidad":"00","seccion":"PL0103"}'`,
+  level: 'warn',
+  timestamp: '2021-04-20 16:05:55',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"id_unidad":"00","seccion":"PL01"}'`,
+  level: 'warn',
+  timestamp: '2021-04-20 16:06:20',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-20 16:09:22',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-20 16:09:22',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-20 16:09:22',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"id_unidad":"00","seccion":"PL04"}'`,
+  level: 'warn',
+  timestamp: '2021-04-20 16:09:31',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-20 16:09:37',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-20 16:11:29',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-20 16:11:30',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-20 16:11:30',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"id_unidad":"00","seccion":"PL03"}'`,
+  level: 'warn',
+  timestamp: '2021-04-20 16:11:36',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-20 16:11:40',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-20 16:11:46',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-20 16:11:53',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-20 16:11:58',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"id_unidad":"00","seccion":"ID01"}'`,
+  level: 'warn',
+  timestamp: '2021-04-20 16:11:59',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-20 16:12:03',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-20 16:12:14',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-20 16:12:43',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-20 16:12:43',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-20 16:12:43',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-20 16:16:46',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-20 16:16:50',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-20 16:16:50',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-20 16:18:47',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-20 16:18:47',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-20 16:18:49',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-20 16:19:39',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-20 16:21:04',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-20 16:21:25',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-20 16:21:25',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-20 16:27:11',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-20 16:27:11',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-20 16:28:28',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-20 16:28:28',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-20 16:29:26',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-20 16:29:26',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-20 16:29:36',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-20 16:29:51',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-20 16:29:51',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-20 16:29:52',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-20 16:30:33',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-20 16:30:48',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-20 16:30:58',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-20 16:30:58',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-20 16:31:46',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-20 16:31:47',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-20 16:31:47',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-20 16:32:55',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-20 16:32:55',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-20 16:32:56',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-20 16:33:17',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-20 16:33:17',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-20 16:33:46',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-20 16:33:46',
+  label: undefined,
+  metadata: { ok: false }
+}
+{
+  message: 'Error en el Token Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-20 16:33:46',
+  label: undefined,
+  metadata: { ok: false }
+}
+{
+  message: 'Error en el Token Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-20 16:34:04',
+  label: undefined,
+  metadata: { ok: false }
+}
+{
+  message: 'Error en el Token Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-20 16:34:04',
+  label: undefined,
+  metadata: { ok: false }
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-20 16:34:49',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-20 16:34:50',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-20 16:34:50',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-20 16:36:58',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-20 16:36:58',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-20 16:37:44',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-20 16:37:44',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-20 16:37:56',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-20 16:37:57',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-20 16:37:58',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"11223344","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-20 16:38:06',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-20 16:41:54',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-20 16:42:24',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-20 16:42:24',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-20 16:42:31',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-20 16:42:32',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-20 16:42:32',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-20 16:42:46',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-20 16:43:46',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-20 16:43:46',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-20 16:43:46',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-20 16:43:55',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error en el Token',
+  level: 'error',
+  timestamp: '2021-04-20 16:43:55',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-20 16:43:56',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-20 16:44:08',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-21 08:04:43',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-21 08:08:13',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-21 08:08:55',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-21 08:11:11',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-21 08:11:40',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-21 08:20:22',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-21 08:21:09',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-21 08:21:15',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-21 08:22:50',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-21 08:23:37',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-21 08:24:24',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-21 08:24:53',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-21 08:25:00',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-21 08:25:49',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-21 08:25:58',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-21 08:42:26',
+  label: undefined,
+  metadata: {}
+}
