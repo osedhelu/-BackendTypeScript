@@ -6,8 +6,6 @@ import { SeccionModel } from './seccion.model';
 export class SeccionController {
   model = new SeccionModel();
   constructor(private socket: Socket, private io: Socket, user: UsuarioSchema) {
-    socket.emit('my_info', user);
-    this.allSeccion();
     this.allEmpleados();
     this.EditSeccion();
     this.ListSeccion();

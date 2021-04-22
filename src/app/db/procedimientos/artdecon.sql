@@ -35,16 +35,17 @@ BEGIN
     -- ##############################################################################
 
     IF @action = 'example'
+
     BEGIN
         BEGIN try
             SELECT *
-        FROM
-            Openjson(@json)
-                WITH
-                (
-                    id_un nvarchar(50) '$.code_empresa',
-                    firstname nvarchar(50) '$.name'
-                );
+                FROM
+                Openjson(@json)
+                    WITH
+                    (
+                        id_un nvarchar(50) '$.code_empresa',
+                        firstname nvarchar(50) '$.name'
+                    );
         END try
         BEGIN catch
             SELECT 'ERROR DE OPERACION: ' + Error_message();
@@ -611,11 +612,11 @@ BEGIN
 
     IF @action = 'ListProductos'
         BEGIN
-                select (
+        select (
         (
         select *
-                    from PRODUCTOS
-                    for json path
+            from PRODUCTOS
+            for json path
         )
         ) as data
 

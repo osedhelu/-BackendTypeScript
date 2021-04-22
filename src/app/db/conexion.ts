@@ -5,13 +5,11 @@ import { Env } from '../../../env';
 import WinstonLog from '../setting/winston';
 import { MessageResponse } from '../interfaces/sockerResp';
 const { _console } = new WinstonLog();
-export class DbService extends Env {
-  constructor() {
-    super();
-  }
+export class DbService {
+  db = new Env()
   public async SQLConsult(xx: SqlInterface, type = 'json'): Promise<MessageResponse> {
     try {
-      const pool = new _sql.ConnectionPool(this.configSQL);
+      const pool = new _sql.ConnectionPool(this.db.configSQL);
       const conexion = await pool.connect();
       if (conexion) {
         const request = new _sql.Request(pool);
