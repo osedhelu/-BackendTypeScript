@@ -1,4 +1,4 @@
-import express from 'express';
+import express, {Application, json} from 'express';
 import { DbService } from '../db/conexion';
 import WinstonLog from './winston';
 import * as bodyParser from "body-parser";
@@ -6,16 +6,17 @@ import { createServer } from 'http';
 import {Server, Socket} from 'socket.io';
 import { Env } from '../../../env';
 import { SocketService } from '../services/socker';
+import ExpresService from '../services/express.service';
 const { _console } = new WinstonLog()
 
 export class InitService {
-public app!: express.Application
+public app!: Application
   
 
 
 
 
-private middelewares(app: express.Application) {
+private middelewares(app: Application) {
     // tslint:disable-next-line: only-arrow-functions
     app.use(function (req: any, res: any, next: any) {
       res.header('Access-Control-Allow-Origin', '*');
@@ -23,7 +24,7 @@ private middelewares(app: express.Application) {
       res.header('Access-Control-Allow-Headers', 'Content-Type, token');
       next();
     });
-    app.use(express.json());
+    app.use(json());
     app.use(bodyParser.urlencoded({ extended: false }));
     app.use(bodyParser.json());
   }
@@ -37,6 +38,7 @@ private middelewares(app: express.Application) {
     this.middelewares(app)
     const httpServer = createServer(app)
     const io = new Server(httpServer, {
+      
       cors: {
         origin: sqlService.IP_FRONTEND,
         allowedHeaders: ["x-Token"],
@@ -45,9 +47,11 @@ private middelewares(app: express.Application) {
       }
     })
     this.app = app
+    new ExpresService(app)
     httpServer.listen(sqlService.PORT, () => {
       _console.info(`Servidor Corriendo en el puerto ${sqlService.PORT}`);  
       const _socket = new SocketService();
+
       _socket.start(io);
     });
   }

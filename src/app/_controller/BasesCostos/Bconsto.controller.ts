@@ -4,7 +4,7 @@ import { BasesCostoModel } from "./Bcosto.model";
 const model = new BasesCostoModel()
 
 export class BasesCostoController {
-    constructor(private socket: Socket, private io: Socket, user: UsuarioSchema) {
+    constructor(private socket: Socket, private io?: Socket, user?: UsuarioSchema) {
         this.ListDominios()
         this.actualizarDominio()
     }

@@ -7678,3 +7678,5923 @@
   label: undefined,
   metadata: {}
 }
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 07:20:45',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 07:23:05',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 07:24:41',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 07:27:59',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 07:45:34',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 07:47:01',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 07:47:36',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 07:47:51',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_dominios', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 07:47:52',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_dominios', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 07:47:55',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'update_dominios', '{"id_unidad":"00","code":"Ultima compra","udclase":"BASES COSTO","ud_descticcion":"Tomar de la Ultima compra"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 07:47:57',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'Mano_de_obra', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 07:47:59',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'unidad_medida', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 07:48:00',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: { id_unidad: '00' },
+  level: 'error',
+  timestamp: '2021-04-23 07:48:05',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getCif', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 07:48:05',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 07:48:08',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"id_unidad":"00","seccion":"PL03"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 07:48:28',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 07:56:10',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"id_unidad":"00","seccion":"PL02"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 07:56:14',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"id_unidad":"00","seccion":"PL02"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 07:56:18',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"id_unidad":"00","seccion":"PL01"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 07:56:18',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"id_unidad":"00","seccion":"ID01"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 07:56:20',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 08:01:01',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 08:01:03',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 08:01:11',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '"client namespace disconnect"',
+  level: 'info',
+  timestamp: '2021-04-23 08:01:11',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 08:01:16',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 08:01:25',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 08:02:11',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 08:02:21',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 08:02:57',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 08:03:31',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 08:03:45',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 08:04:54',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 08:05:10',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '"client namespace disconnect"',
+  level: 'info',
+  timestamp: '2021-04-23 08:05:10',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 08:05:19',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 08:05:28',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 08:07:17',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 08:07:55',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 08:08:05',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '"client namespace disconnect"',
+  level: 'info',
+  timestamp: '2021-04-23 08:08:05',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 08:08:13',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 08:08:25',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 08:08:33',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 08:08:33',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '"client namespace disconnect"',
+  level: 'info',
+  timestamp: '2021-04-23 08:08:33',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 08:13:55',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 08:14:18',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 08:14:38',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 08:15:58',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 08:16:02',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_dominios', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 08:16:05',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto ',
+  level: 'error',
+  timestamp: '2021-04-23 08:16:15',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 08:16:23',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 08:16:57',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 08:17:12',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 08:17:30',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 08:17:44',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 08:18:42',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 08:18:46',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '"osedhelu"',
+  level: 'info',
+  timestamp: '2021-04-23 08:18:56',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 08:19:04',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 08:19:23',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 08:19:24',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '"osedhelu"',
+  level: 'error',
+  timestamp: '2021-04-23 08:20:11',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 08:20:18',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '"osedhelu"',
+  level: 'error',
+  timestamp: '2021-04-23 08:20:22',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 08:20:32',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 08:20:46',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 08:21:35',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 08:21:45',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: undefined,
+  level: 'error',
+  timestamp: '2021-04-23 08:22:48',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 08:22:56',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 08:23:10',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: undefined,
+  level: 'error',
+  timestamp: '2021-04-23 08:23:11',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 08:25:52',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'undefined',
+  level: 'error',
+  timestamp: '2021-04-23 08:29:43',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 08:29:51',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 08:30:10',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'undefined',
+  level: 'error',
+  timestamp: '2021-04-23 08:30:10',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 08:32:02',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: true,
+  level: 'error',
+  timestamp: '2021-04-23 08:32:17',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 08:32:28',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 08:33:05',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 08:41:36',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 08:41:52',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 08:42:43',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 08:43:06',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 08:43:08',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 08:43:44',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto ',
+  level: 'error',
+  timestamp: '2021-04-23 08:43:44',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto ',
+  level: 'error',
+  timestamp: '2021-04-23 08:44:47',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 08:44:55',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 08:45:36',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 08:45:48',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 08:46:16',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto ',
+  level: 'error',
+  timestamp: '2021-04-23 08:46:17',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto ',
+  level: 'error',
+  timestamp: '2021-04-23 08:46:47',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 08:47:15',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 08:48:07',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 08:50:04',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 08:51:48',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 08:54:11',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 08:54:28',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 08:54:36',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 08:54:52',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 08:55:01',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 08:55:15',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 08:55:24',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto ',
+  level: 'error',
+  timestamp: '2021-04-23 08:55:24',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 08:56:27',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 08:56:35',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 08:56:49',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 08:56:59',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto ',
+  level: 'error',
+  timestamp: '2021-04-23 08:57:00',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto ',
+  level: 'error',
+  timestamp: '2021-04-23 08:57:45',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 08:57:54',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_dominios', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 08:57:56',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 08:58:29',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 08:58:38',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 08:58:45',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 08:58:59',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 08:59:10',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto ',
+  level: 'error',
+  timestamp: '2021-04-23 08:59:11',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto ',
+  level: 'error',
+  timestamp: '2021-04-23 08:59:52',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 09:00:31',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 09:00:42',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto ',
+  level: 'error',
+  timestamp: '2021-04-23 09:00:42',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 09:01:17',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 09:01:18',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 09:01:18',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 09:01:19',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 09:01:19',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 09:01:20',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 09:01:23',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 09:01:23',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 09:01:23',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 09:01:23',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 09:01:24',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 09:01:24',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 09:01:26',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 09:01:26',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 09:01:26',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 09:01:26',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 09:01:27',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 09:01:27',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 09:01:27',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 09:01:27',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 09:01:27',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 09:01:28',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 09:01:28',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 09:01:28',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 09:01:28',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 09:01:29',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 09:01:29',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 09:01:29',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 09:01:31',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 09:01:31',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 09:01:31',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 09:01:31',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 09:01:32',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 09:01:32',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 09:01:32',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 09:01:32',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 09:01:32',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 09:01:33',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 09:01:33',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 09:01:33',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 09:01:33',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 09:01:33',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 09:01:34',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 09:01:34',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 09:01:34',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 09:01:34',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 09:01:34',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 09:01:35',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 09:01:35',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 09:01:35',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 09:01:35',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 09:01:36',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 09:01:36',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 09:01:36',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 09:01:36',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 09:01:37',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 09:01:37',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 09:01:37',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 09:01:37',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 09:01:37',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 09:01:53',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 09:03:01',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 09:03:13',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 09:03:41',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 09:03:49',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 09:03:59',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto ',
+  level: 'error',
+  timestamp: '2021-04-23 09:04:00',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 09:05:09',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 09:05:16',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 09:05:26',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 09:05:36',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto ',
+  level: 'error',
+  timestamp: '2021-04-23 09:05:36',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'osedhelu',
+  level: 'info',
+  timestamp: '2021-04-23 09:07:46',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 09:07:52',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 09:08:02',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto ',
+  level: 'error',
+  timestamp: '2021-04-23 09:13:11',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 09:13:22',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto ',
+  level: 'error',
+  timestamp: '2021-04-23 09:14:55',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto ',
+  level: 'error',
+  timestamp: '2021-04-23 09:14:55',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 09:15:05',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto ',
+  level: 'error',
+  timestamp: '2021-04-23 09:15:15',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto ',
+  level: 'error',
+  timestamp: '2021-04-23 09:15:15',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 09:15:22',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto ',
+  level: 'error',
+  timestamp: '2021-04-23 09:16:06',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto ',
+  level: 'error',
+  timestamp: '2021-04-23 09:16:06',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto ',
+  level: 'error',
+  timestamp: '2021-04-23 09:16:23',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto ',
+  level: 'error',
+  timestamp: '2021-04-23 09:16:23',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto ',
+  level: 'error',
+  timestamp: '2021-04-23 09:16:47',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto ',
+  level: 'error',
+  timestamp: '2021-04-23 09:16:47',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 09:17:34',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto ',
+  level: 'error',
+  timestamp: '2021-04-23 09:18:13',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto ',
+  level: 'error',
+  timestamp: '2021-04-23 09:18:13',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 09:20:05',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 09:21:02',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '"null ->>> undefined"',
+  level: 'warn',
+  timestamp: '2021-04-23 09:21:03',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 09:22:11',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '"null ->>> undefined"',
+  level: 'warn',
+  timestamp: '2021-04-23 09:22:12',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 09:22:23',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '"null ->>> undefined"',
+  level: 'warn',
+  timestamp: '2021-04-23 09:22:24',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '"login ->>> undefined"',
+  level: 'warn',
+  timestamp: '2021-04-23 09:22:44',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '"null ->>> undefined"',
+  level: 'warn',
+  timestamp: '2021-04-23 09:22:45',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 09:24:02',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '"login ->>> undefined"',
+  level: 'warn',
+  timestamp: '2021-04-23 09:24:02',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '"null ->>> undefined"',
+  level: 'warn',
+  timestamp: '2021-04-23 09:24:02',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 09:25:56',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '"null ->>> undefined"',
+  level: 'warn',
+  timestamp: '2021-04-23 09:25:56',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '"login ->>> undefined"',
+  level: 'warn',
+  timestamp: '2021-04-23 09:25:56',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 09:29:58',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '"login ->>>"',
+  level: 'warn',
+  timestamp: '2021-04-23 09:30:00',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '"null ->>>"',
+  level: 'warn',
+  timestamp: '2021-04-23 09:30:00',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 09:32:52',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '"null ->>>"',
+  level: 'warn',
+  timestamp: '2021-04-23 09:32:53',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '"login ->>>"',
+  level: 'warn',
+  timestamp: '2021-04-23 09:32:53',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 09:33:25',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '"null ->>>"',
+  level: 'warn',
+  timestamp: '2021-04-23 09:33:25',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '"login ->>>"',
+  level: 'warn',
+  timestamp: '2021-04-23 09:33:25',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 09:33:41',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '"login ->>>"',
+  level: 'warn',
+  timestamp: '2021-04-23 09:33:41',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '"null ->>>"',
+  level: 'warn',
+  timestamp: '2021-04-23 09:33:45',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 09:34:13',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '"login ->>>"',
+  level: 'warn',
+  timestamp: '2021-04-23 09:34:18',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 09:34:44',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '"login ->>>"',
+  level: 'warn',
+  timestamp: '2021-04-23 09:34:44',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 09:35:29',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '"login ->>>"',
+  level: 'warn',
+  timestamp: '2021-04-23 09:35:30',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 09:36:41',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: true,
+  level: 'warn',
+  timestamp: '2021-04-23 09:36:41',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: true,
+  level: 'warn',
+  timestamp: '2021-04-23 09:36:58',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: false,
+  level: 'warn',
+  timestamp: '2021-04-23 09:36:59',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: true,
+  level: 'warn',
+  timestamp: '2021-04-23 09:37:02',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 09:41:37',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: false,
+  level: 'warn',
+  timestamp: '2021-04-23 09:41:41',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 09:42:11',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 09:42:31',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'warn',
+  timestamp: '2021-04-23 09:42:31',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 09:42:32',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 09:42:52',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 09:44:03',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'warn',
+  timestamp: '2021-04-23 09:44:03',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'warn',
+  timestamp: '2021-04-23 09:44:41',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 09:44:42',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 09:44:54',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 09:45:42',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 09:46:18',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 09:47:09',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 09:47:57',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 09:48:13',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'Mano_de_obra', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 09:49:13',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'unidad_medida', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 09:49:13',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_dominios', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 09:49:17',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'update_dominios', '{"id_unidad":"00","code":"Ultima compra","udclase":"BASES COSTO","ud_descticcion":"Tomar de la Ultima compra"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 09:49:19',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: { id_unidad: '00' },
+  level: 'error',
+  timestamp: '2021-04-23 09:49:20',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getCif', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 09:49:20',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'Mano_de_obra', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 09:49:21',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'unidad_medida', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 09:49:21',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 09:51:23',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_dominios', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 09:51:31',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'update_dominios', '{"id_unidad":"00","code":"Ultima compra","udclase":"BASES COSTO","ud_descticcion":"Tomar de la Ultima compra"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 09:51:35',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'update_dominios', '{"id_unidad":"00","code":"Kardex","udclase":"BASES COSTO","ud_descticcion":"Tomar del Kardex"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 09:51:37',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'Mano_de_obra', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 09:51:39',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'unidad_medida', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 09:51:39',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 09:51:58',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 09:53:05',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 09:53:35',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 09:54:19',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: false,
+  level: 'warn',
+  timestamp: '2021-04-23 09:54:19',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 09:54:46',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'warn',
+  timestamp: '2021-04-23 09:54:47',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto ',
+  level: 'error',
+  timestamp: '2021-04-23 09:57:20',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkxODk2MTYsImV4cCI6MTYxOTE5OTY5Nn0.0zsj2jYWCjRECNFSpkBEsjna5K303B4p59KzjH-EvxM',
+  level: 'warn',
+  timestamp: '2021-04-23 09:57:37',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 10:01:39',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkxODk2MTYsImV4cCI6MTYxOTE5OTY5Nn0.0zsj2jYWCjRECNFSpkBEsjna5K303B4p59KzjH-EvxM',
+  level: 'warn',
+  timestamp: '2021-04-23 10:01:48',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkxODk2MTYsImV4cCI6MTYxOTE5OTY5Nn0.0zsj2jYWCjRECNFSpkBEsjna5K303B4p59KzjH-EvxM',
+  level: 'warn',
+  timestamp: '2021-04-23 10:01:49',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkxODk2MTYsImV4cCI6MTYxOTE5OTY5Nn0.0zsj2jYWCjRECNFSpkBEsjna5K303B4p59KzjH-EvxM',
+  level: 'warn',
+  timestamp: '2021-04-23 10:01:49',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 10:02:03',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 10:02:03',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 10:02:03',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'warn',
+  timestamp: '2021-04-23 10:02:18',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:02:20',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:02:31',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto ',
+  level: 'error',
+  timestamp: '2021-04-23 10:03:14',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkxOTAxNTEsImV4cCI6MTYxOTIwMDIzMX0.bwHwUULRRfIYnT6PcCVa6DZMQ0AxUQj7_U3gvmg5-Bg',
+  level: 'warn',
+  timestamp: '2021-04-23 10:03:26',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 10:04:09',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkxOTAxNTEsImV4cCI6MTYxOTIwMDIzMX0.bwHwUULRRfIYnT6PcCVa6DZMQ0AxUQj7_U3gvmg5-Bg',
+  level: 'warn',
+  timestamp: '2021-04-23 10:04:19',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 10:05:05',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkxOTAxNTEsImV4cCI6MTYxOTIwMDIzMX0.bwHwUULRRfIYnT6PcCVa6DZMQ0AxUQj7_U3gvmg5-Bg',
+  level: 'warn',
+  timestamp: '2021-04-23 10:05:17',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 10:05:22',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'warn',
+  timestamp: '2021-04-23 10:05:33',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:05:35',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:05:43',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto ',
+  level: 'error',
+  timestamp: '2021-04-23 10:05:58',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkxOTAzNDQsImV4cCI6MTYxOTIwMDQyNH0.b-LOon4tr0Ta6n3qh6uOhXvlNXb8JP0qv7gIRalPso4',
+  level: 'warn',
+  timestamp: '2021-04-23 10:06:10',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 10:06:16',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'warn',
+  timestamp: '2021-04-23 10:06:28',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:06:30',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:06:51',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto ',
+  level: 'error',
+  timestamp: '2021-04-23 10:06:51',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkxOTA0MTEsImV4cCI6MTYxOTIwMDQ5MX0.VRbtf3d9djvYQBbgP2efLq9iYStxdvhzem7PtIvghbM',
+  level: 'warn',
+  timestamp: '2021-04-23 10:07:00',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:07:00',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_dominios', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:07:17',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'update_dominios', '{"id_unidad":"00","code":"Kardex","udclase":"BASES COSTO","ud_descticcion":"Tomar del Kardex"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:07:17',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'Mano_de_obra', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:07:19',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'unidad_medida', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:07:19',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 10:08:46',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkxOTA0MTEsImV4cCI6MTYxOTIwMDQ5MX0.VRbtf3d9djvYQBbgP2efLq9iYStxdvhzem7PtIvghbM',
+  level: 'warn',
+  timestamp: '2021-04-23 10:08:46',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 10:09:31',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: true,
+  level: 'warn',
+  timestamp: '2021-04-23 10:09:32',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 10:09:59',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Hola osedhelu',
+  level: 'warn',
+  timestamp: '2021-04-23 10:09:59',
+  label: undefined,
+  metadata: {
+    ok: true,
+    data: {
+      ID_UN: '00',
+      USUARIO: '1127579854',
+      CLAVE_SECUNDARIA: '',
+      NOMBRE: 'osedhelu',
+      ID_ROL: 'ADM',
+      iat: 1619190411,
+      exp: 1619200491
+    }
+  }
+}
+{
+  message: `exec AAProArtdecon 'get_dominios', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:10:12',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'update_dominios', '{"id_unidad":"00","code":"Kardex","udclase":"BASES COSTO","ud_descticcion":"Tomar del Kardex"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:10:20',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'Mano_de_obra', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:11:12',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'unidad_medida', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:11:12',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 10:13:27',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:13:40',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:13:48',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 10:13:48',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Hola osedhelu',
+  level: 'warn',
+  timestamp: '2021-04-23 10:13:57',
+  label: undefined,
+  metadata: {
+    ok: true,
+    data: {
+      ID_UN: '00',
+      USUARIO: '1127579854',
+      CLAVE_SECUNDARIA: '',
+      NOMBRE: 'osedhelu',
+      ID_ROL: 'ADM',
+      iat: 1619190828,
+      exp: 1619200908
+    }
+  }
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:13:59',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 10:14:40',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Hola osedhelu',
+  level: 'warn',
+  timestamp: '2021-04-23 10:14:49',
+  label: undefined,
+  metadata: {
+    ok: true,
+    data: {
+      ID_UN: '00',
+      USUARIO: '1127579854',
+      CLAVE_SECUNDARIA: '',
+      NOMBRE: 'osedhelu',
+      ID_ROL: 'ADM',
+      iat: 1619190828,
+      exp: 1619200908
+    }
+  }
+}
+{
+  message: `exec AAProArtdecon 'get_dominios', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:15:40',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'update_dominios', '{"id_unidad":"00","code":"Kardex","udclase":"BASES COSTO","ud_descticcion":"Tomar del Kardex"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:15:41',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'Mano_de_obra', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:15:43',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'unidad_medida', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:15:44',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: { id_unidad: '00' },
+  level: 'error',
+  timestamp: '2021-04-23 10:15:46',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getCif', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:15:46',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:15:48',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"id_unidad":"00","seccion":"PL01"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:15:51',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"id_unidad":"00","seccion":"ID01"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:15:51',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"id_unidad":"00","seccion":"PL03"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:16:02',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_dominios', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:16:10',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'update_dominios', '{"id_unidad":"00","code":"Kardex","udclase":"BASES COSTO","ud_descticcion":"Tomar del Kardex"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:16:12',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'Mano_de_obra', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:16:16',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'unidad_medida', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:16:16',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_dominios', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:16:18',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'update_dominios', '{"id_unidad":"00","code":"Kardex","udclase":"BASES COSTO","ud_descticcion":"Tomar del Kardex"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:16:23',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'Mano_de_obra', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:16:26',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'unidad_medida', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:16:26',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_dominios', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:16:28',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'update_dominios', '{"id_unidad":"00","code":"Kardex","udclase":"BASES COSTO","ud_descticcion":"Tomar del Kardex"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:16:30',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'update_dominios', '{"id_unidad":"00","code":"Ultima compra","udclase":"BASES COSTO","ud_descticcion":"Tomar de la Ultima compra"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:16:35',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'update_dominios', '{"id_unidad":"00","code":"Lista de precios","udclase":"BASES COSTO","ud_descticcion":"Tomar de la Lista de precios"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:16:38',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'update_dominios', '{"id_unidad":"00","code":"Kardex","udclase":"BASES COSTO","ud_descticcion":"Tomar del Kardex"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:16:39',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'Mano_de_obra', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:16:43',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'unidad_medida', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:16:43',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_dominios', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:16:45',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'update_dominios', '{"id_unidad":"00","code":"Kardex","udclase":"BASES COSTO","ud_descticcion":"Tomar del Kardex"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:16:46',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'update_dominios', '{"id_unidad":"00","code":"Lista de precios","udclase":"BASES COSTO","ud_descticcion":"Tomar de la Lista de precios"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:16:47',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: { id_unidad: '00' },
+  level: 'error',
+  timestamp: '2021-04-23 10:16:49',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getCif', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:16:49',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_dominios', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:16:50',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'update_dominios', '{"id_unidad":"00","code":"Lista de precios","udclase":"BASES COSTO","ud_descticcion":"Tomar de la Lista de precios"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:16:51',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_dominios', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:17:22',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'update_dominios', '{"id_unidad":"00","code":"Lista de precios","udclase":"BASES COSTO","ud_descticcion":"Tomar de la Lista de precios"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:17:24',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'Mano_de_obra', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:17:26',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'unidad_medida', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:17:26',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: { id_unidad: '00' },
+  level: 'error',
+  timestamp: '2021-04-23 10:17:32',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getCif', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:17:32',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 10:17:42',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Hola osedhelu',
+  level: 'warn',
+  timestamp: '2021-04-23 10:17:51',
+  label: undefined,
+  metadata: {
+    ok: true,
+    data: {
+      ID_UN: '00',
+      USUARIO: '1127579854',
+      CLAVE_SECUNDARIA: '',
+      NOMBRE: 'osedhelu',
+      ID_ROL: 'ADM',
+      iat: 1619190828,
+      exp: 1619200908
+    }
+  }
+}
+{
+  message: { id_unidad: '00' },
+  level: 'error',
+  timestamp: '2021-04-23 10:17:54',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getCif', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:17:54',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 10:18:25',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Hola osedhelu',
+  level: 'warn',
+  timestamp: '2021-04-23 10:18:34',
+  label: undefined,
+  metadata: {
+    ok: true,
+    data: {
+      ID_UN: '00',
+      USUARIO: '1127579854',
+      CLAVE_SECUNDARIA: '',
+      NOMBRE: 'osedhelu',
+      ID_ROL: 'ADM',
+      iat: 1619190828,
+      exp: 1619200908
+    }
+  }
+}
+{
+  message: { id_unidad: '00' },
+  level: 'error',
+  timestamp: '2021-04-23 10:18:38',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getCif', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:18:39',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'Mano_de_obra', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:18:48',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'unidad_medida', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:18:48',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: { id_unidad: '00' },
+  level: 'error',
+  timestamp: '2021-04-23 10:18:49',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getCif', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:18:49',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: { id_unidad: '00' },
+  level: 'error',
+  timestamp: '2021-04-23 10:19:20',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getCif', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:19:23',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 10:19:35',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Hola osedhelu',
+  level: 'warn',
+  timestamp: '2021-04-23 10:19:42',
+  label: undefined,
+  metadata: {
+    ok: true,
+    data: {
+      ID_UN: '00',
+      USUARIO: '1127579854',
+      CLAVE_SECUNDARIA: '',
+      NOMBRE: 'osedhelu',
+      ID_ROL: 'ADM',
+      iat: 1619190828,
+      exp: 1619200908
+    }
+  }
+}
+{
+  message: { id_unidad: '00' },
+  level: 'error',
+  timestamp: '2021-04-23 10:19:43',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getCif', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:19:43',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: { id_unidad: '00' },
+  level: 'error',
+  timestamp: '2021-04-23 10:19:49',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getCif', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:19:49',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'Mano_de_obra', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:19:52',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'unidad_medida', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:19:52',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_dominios', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:19:53',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'update_dominios', '{"id_unidad":"00","code":"Lista de precios","udclase":"BASES COSTO","ud_descticcion":"Tomar de la Lista de precios"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:20:06',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: { id_unidad: '00' },
+  level: 'error',
+  timestamp: '2021-04-23 10:20:06',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getCif', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:20:06',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_dominios', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:24:30',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'update_dominios', '{"id_unidad":"00","code":"Lista de precios","udclase":"BASES COSTO","ud_descticcion":"Tomar de la Lista de precios"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:24:32',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 10:25:22',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Hola osedhelu',
+  level: 'warn',
+  timestamp: '2021-04-23 10:25:31',
+  label: undefined,
+  metadata: {
+    ok: true,
+    data: {
+      ID_UN: '00',
+      USUARIO: '1127579854',
+      CLAVE_SECUNDARIA: '',
+      NOMBRE: 'osedhelu',
+      ID_ROL: 'ADM',
+      iat: 1619190828,
+      exp: 1619200908
+    }
+  }
+}
+{
+  message: `exec AAProArtdecon 'get_dominios', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:25:37',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 10:27:20',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Hola osedhelu',
+  level: 'warn',
+  timestamp: '2021-04-23 10:27:27',
+  label: undefined,
+  metadata: {
+    ok: true,
+    data: {
+      ID_UN: '00',
+      USUARIO: '1127579854',
+      CLAVE_SECUNDARIA: '',
+      NOMBRE: 'osedhelu',
+      ID_ROL: 'ADM',
+      iat: 1619190828,
+      exp: 1619200908
+    }
+  }
+}
+{
+  message: `exec AAProArtdecon 'get_dominios', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:27:30',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 10:28:00',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Hola osedhelu',
+  level: 'warn',
+  timestamp: '2021-04-23 10:28:07',
+  label: undefined,
+  metadata: {
+    ok: true,
+    data: {
+      ID_UN: '00',
+      USUARIO: '1127579854',
+      CLAVE_SECUNDARIA: '',
+      NOMBRE: 'osedhelu',
+      ID_ROL: 'ADM',
+      iat: 1619190828,
+      exp: 1619200908
+    }
+  }
+}
+{
+  message: `exec AAProArtdecon 'get_dominios', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:28:10',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_dominios', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:28:37',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'Mano_de_obra', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:29:30',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'unidad_medida', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:29:30',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: { id_unidad: '00' },
+  level: 'error',
+  timestamp: '2021-04-23 10:29:34',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getCif', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 10:29:34',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 10:34:10',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Hola osedhelu',
+  level: 'warn',
+  timestamp: '2021-04-23 10:34:15',
+  label: undefined,
+  metadata: {
+    ok: true,
+    data: {
+      ID_UN: '00',
+      USUARIO: '1127579854',
+      CLAVE_SECUNDARIA: '',
+      NOMBRE: 'osedhelu',
+      ID_ROL: 'ADM',
+      iat: 1619190828,
+      exp: 1619200908
+    }
+  }
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 10:36:20',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Hola osedhelu',
+  level: 'warn',
+  timestamp: '2021-04-23 10:36:23',
+  label: undefined,
+  metadata: {
+    ok: true,
+    data: {
+      ID_UN: '00',
+      USUARIO: '1127579854',
+      CLAVE_SECUNDARIA: '',
+      NOMBRE: 'osedhelu',
+      ID_ROL: 'ADM',
+      iat: 1619190828,
+      exp: 1619200908
+    }
+  }
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 10:38:22',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Hola osedhelu',
+  level: 'warn',
+  timestamp: '2021-04-23 10:38:23',
+  label: undefined,
+  metadata: {
+    ok: true,
+    data: {
+      ID_UN: '00',
+      USUARIO: '1127579854',
+      CLAVE_SECUNDARIA: '',
+      NOMBRE: 'osedhelu',
+      ID_ROL: 'ADM',
+      iat: 1619190828,
+      exp: 1619200908
+    }
+  }
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 10:39:40',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Hola osedhelu',
+  level: 'warn',
+  timestamp: '2021-04-23 10:39:40',
+  label: undefined,
+  metadata: {
+    ok: true,
+    data: {
+      ID_UN: '00',
+      USUARIO: '1127579854',
+      CLAVE_SECUNDARIA: '',
+      NOMBRE: 'osedhelu',
+      ID_ROL: 'ADM',
+      iat: 1619190828,
+      exp: 1619200908
+    }
+  }
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 10:48:09',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Hola osedhelu',
+  level: 'warn',
+  timestamp: '2021-04-23 10:48:09',
+  label: undefined,
+  metadata: {
+    ok: true,
+    data: {
+      ID_UN: '00',
+      USUARIO: '1127579854',
+      CLAVE_SECUNDARIA: '',
+      NOMBRE: 'osedhelu',
+      ID_ROL: 'ADM',
+      iat: 1619190828,
+      exp: 1619200908
+    }
+  }
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 10:50:29',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Hola osedhelu',
+  level: 'warn',
+  timestamp: '2021-04-23 10:50:29',
+  label: undefined,
+  metadata: {
+    ok: true,
+    data: {
+      ID_UN: '00',
+      USUARIO: '1127579854',
+      CLAVE_SECUNDARIA: '',
+      NOMBRE: 'osedhelu',
+      ID_ROL: 'ADM',
+      iat: 1619190828,
+      exp: 1619200908
+    }
+  }
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 10:57:22',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Hola osedhelu',
+  level: 'warn',
+  timestamp: '2021-04-23 10:57:24',
+  label: undefined,
+  metadata: {
+    ok: true,
+    data: {
+      ID_UN: '00',
+      USUARIO: '1127579854',
+      CLAVE_SECUNDARIA: '',
+      NOMBRE: 'osedhelu',
+      ID_ROL: 'ADM',
+      iat: 1619190828,
+      exp: 1619200908
+    }
+  }
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 11:21:15',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Hola osedhelu',
+  level: 'warn',
+  timestamp: '2021-04-23 11:21:18',
+  label: undefined,
+  metadata: {
+    ok: true,
+    data: {
+      ID_UN: '00',
+      USUARIO: '1127579854',
+      CLAVE_SECUNDARIA: '',
+      NOMBRE: 'osedhelu',
+      ID_ROL: 'ADM',
+      iat: 1619190828,
+      exp: 1619200908
+    }
+  }
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 11:21:53',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Hola osedhelu',
+  level: 'warn',
+  timestamp: '2021-04-23 11:21:53',
+  label: undefined,
+  metadata: {
+    ok: true,
+    data: {
+      ID_UN: '00',
+      USUARIO: '1127579854',
+      CLAVE_SECUNDARIA: '',
+      NOMBRE: 'osedhelu',
+      ID_ROL: 'ADM',
+      iat: 1619190828,
+      exp: 1619200908
+    }
+  }
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 11:22:12',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Hola osedhelu',
+  level: 'warn',
+  timestamp: '2021-04-23 11:22:39',
+  label: undefined,
+  metadata: {
+    ok: true,
+    data: {
+      ID_UN: '00',
+      USUARIO: '1127579854',
+      CLAVE_SECUNDARIA: '',
+      NOMBRE: 'osedhelu',
+      ID_ROL: 'ADM',
+      iat: 1619190828,
+      exp: 1619200908
+    }
+  }
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 11:24:52',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 12:39:21',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 12:55:22',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 12:57:20',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 12:57:46',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 13:01:34',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 13:01:42',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 13:06:43',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: true,
+  level: 'warn',
+  timestamp: '2021-04-23 13:08:40',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 13:08:42',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 13:12:00',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkxOTA4MjgsImV4cCI6MTYxOTIwMDkwOH0.DMQ1xy42uOraaiIHopCjDu86NMnCZUg2Y9swdKjX74s',
+  level: 'error',
+  timestamp: '2021-04-23 13:12:05',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: true,
+  level: 'warn',
+  timestamp: '2021-04-23 13:12:05',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 13:14:03',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkxOTA4MjgsImV4cCI6MTYxOTIwMDkwOH0.DMQ1xy42uOraaiIHopCjDu86NMnCZUg2Y9swdKjX74s',
+  level: 'error',
+  timestamp: '2021-04-23 13:14:04',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:14:05',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 13:14:27',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:14:36',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:14:36',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:14:37',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:14:57',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:14:57',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:14:58',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 13:14:59',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:15:22',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:15:22',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:15:23',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 13:15:23',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:15:43',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:15:43',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 13:15:44',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:15:44',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 13:16:33',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:16:40',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:16:40',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:16:42',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:17:05',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:17:05',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:17:06',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 13:17:07',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:17:43',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:17:43',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:17:44',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 13:18:09',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:18:30',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:18:30',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 13:18:31',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:19:02',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:19:20',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:19:20',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 13:19:23',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 13:20:04',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:20:04',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:20:04',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:20:04',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:20:11',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:20:11',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:20:11',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:20:18',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:20:18',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:20:18',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:20:25',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:20:25',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:20:25',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:20:32',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:20:32',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:20:32',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:20:41',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:20:41',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:20:42',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:20:56',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:20:56',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:20:57',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:21:13',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:21:13',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:21:14',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:21:24',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:21:24',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:21:24',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:21:36',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:21:36',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:21:36',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:21:47',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:21:47',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:21:47',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:21:57',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:21:57',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:21:58',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:22:07',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:22:07',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:22:07',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:22:18',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:22:18',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:22:18',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:22:27',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:22:27',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:22:28',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:22:36',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:22:36',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:22:37',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:22:47',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:22:47',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:22:47',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:22:58',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:22:58',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:22:58',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:23:07',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:23:07',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:23:07',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 13:23:09',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:23:20',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:23:20',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:23:20',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:23:30',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:23:30',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:23:30',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:23:38',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:23:38',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:23:38',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:23:45',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:23:45',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:23:46',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:23:54',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:23:54',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:23:54',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:24:02',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:24:02',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:24:02',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:24:10',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:24:10',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:24:10',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:24:19',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:24:19',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:24:19',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:24:27',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:24:27',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:24:27',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:24:36',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:24:36',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:24:36',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:24:47',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:24:47',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:24:47',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:24:55',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:24:55',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:24:55',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:25:03',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:25:03',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:25:04',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:25:11',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:25:11',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:25:11',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:25:21',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:25:21',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:25:21',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:25:32',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:25:32',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:25:32',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:25:41',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:25:41',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:25:41',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:25:51',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:25:51',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:25:51',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:26:02',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:26:02',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:26:02',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:26:12',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:26:12',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:26:13',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 13:26:14',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:26:21',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:26:21',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:26:21',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:26:32',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:26:32',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:26:33',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:26:43',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:26:44',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:26:44',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:26:55',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:26:55',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:26:55',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 13:26:56',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:27:05',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:27:05',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:27:06',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:27:15',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:27:15',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:27:16',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:27:25',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:27:25',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:27:25',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:27:35',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:27:35',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:27:35',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:27:44',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:27:44',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:27:44',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:27:54',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:27:54',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:27:54',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:28:04',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:28:04',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:28:04',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:28:13',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:28:14',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:28:14',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:28:24',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:28:24',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:28:24',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:28:36',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:28:36',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:28:36',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:28:46',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:28:46',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:28:46',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:28:58',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:28:58',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:28:58',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:29:06',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:29:06',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 13:29:08',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 13:29:33',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:30:01',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkyMDI1NzMsImV4cCI6MTYxOTIxMjY1M30.IshRYPPGkVP8uX73pUR2QwccFQHofC3lHx9hj_191AU',
+  level: 'error',
+  timestamp: '2021-04-23 13:30:10',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 13:30:17',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 13:30:25',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 13:30:25',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 13:30:27',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 13:30:35',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 13:30:36',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkyMDI2MzYsImV4cCI6MTYxOTIxMjcxNn0.CL0saLy0pKwqypAxjYCj6DsgLcYk4BUJ-RcQG5FnWWo',
+  level: 'error',
+  timestamp: '2021-04-23 13:30:43',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 13:30:46',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_dominios', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 13:30:48',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'Mano_de_obra', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 13:30:53',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'unidad_medida', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 13:30:54',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: { id_unidad: '00' },
+  level: 'error',
+  timestamp: '2021-04-23 13:30:56',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getCif', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 13:30:56',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 13:31:16',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"id_unidad":"00","seccion":"PL01"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 13:32:17',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 13:43:22',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkyMDI2MzYsImV4cCI6MTYxOTIxMjcxNn0.CL0saLy0pKwqypAxjYCj6DsgLcYk4BUJ-RcQG5FnWWo',
+  level: 'error',
+  timestamp: '2021-04-23 13:43:31',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 13:43:34',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'unidad_medida', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 14:22:18',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'Mano_de_obra', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 14:22:19',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_dominios', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 14:22:22',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: { id_unidad: '00' },
+  level: 'error',
+  timestamp: '2021-04-23 14:22:27',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getCif', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 14:22:27',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 14:22:30',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"id_unidad":"00","seccion":"ID01"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 14:22:33',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"id_unidad":"00","seccion":"PL03"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 14:22:36',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto osedhelu',
+  level: 'error',
+  timestamp: '2021-04-23 14:23:01',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkyMDI2MzYsImV4cCI6MTYxOTIxMjcxNn0.CL0saLy0pKwqypAxjYCj6DsgLcYk4BUJ-RcQG5FnWWo',
+  level: 'error',
+  timestamp: '2021-04-23 14:23:13',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 14:23:15',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 14:23:37',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getEmpleados', '{"id_unidad":"00","seccion":"PL02"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 14:23:40',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 14:25:41',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkyMDI2MzYsImV4cCI6MTYxOTIxMjcxNn0.CL0saLy0pKwqypAxjYCj6DsgLcYk4BUJ-RcQG5FnWWo',
+  level: 'error',
+  timestamp: '2021-04-23 14:25:43',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 14:45:27',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkyMDI2MzYsImV4cCI6MTYxOTIxMjcxNn0.CL0saLy0pKwqypAxjYCj6DsgLcYk4BUJ-RcQG5FnWWo',
+  level: 'error',
+  timestamp: '2021-04-23 14:45:27',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 14:46:42',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkyMDI2MzYsImV4cCI6MTYxOTIxMjcxNn0.CL0saLy0pKwqypAxjYCj6DsgLcYk4BUJ-RcQG5FnWWo',
+  level: 'error',
+  timestamp: '2021-04-23 14:46:43',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 14:49:44',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkyMDI2MzYsImV4cCI6MTYxOTIxMjcxNn0.CL0saLy0pKwqypAxjYCj6DsgLcYk4BUJ-RcQG5FnWWo',
+  level: 'error',
+  timestamp: '2021-04-23 14:49:45',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 14:50:11',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkyMDI2MzYsImV4cCI6MTYxOTIxMjcxNn0.CL0saLy0pKwqypAxjYCj6DsgLcYk4BUJ-RcQG5FnWWo',
+  level: 'error',
+  timestamp: '2021-04-23 14:50:13',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 14:50:42',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkyMDI2MzYsImV4cCI6MTYxOTIxMjcxNn0.CL0saLy0pKwqypAxjYCj6DsgLcYk4BUJ-RcQG5FnWWo',
+  level: 'error',
+  timestamp: '2021-04-23 14:50:42',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 14:53:04',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkyMDI2MzYsImV4cCI6MTYxOTIxMjcxNn0.CL0saLy0pKwqypAxjYCj6DsgLcYk4BUJ-RcQG5FnWWo',
+  level: 'error',
+  timestamp: '2021-04-23 14:53:07',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 14:53:48',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkyMDI2MzYsImV4cCI6MTYxOTIxMjcxNn0.CL0saLy0pKwqypAxjYCj6DsgLcYk4BUJ-RcQG5FnWWo',
+  level: 'error',
+  timestamp: '2021-04-23 14:53:48',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 14:54:43',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkyMDI2MzYsImV4cCI6MTYxOTIxMjcxNn0.CL0saLy0pKwqypAxjYCj6DsgLcYk4BUJ-RcQG5FnWWo',
+  level: 'error',
+  timestamp: '2021-04-23 14:54:48',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 15:04:22',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkyMDI2MzYsImV4cCI6MTYxOTIxMjcxNn0.CL0saLy0pKwqypAxjYCj6DsgLcYk4BUJ-RcQG5FnWWo',
+  level: 'error',
+  timestamp: '2021-04-23 15:04:24',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 15:04:56',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkyMDI2MzYsImV4cCI6MTYxOTIxMjcxNn0.CL0saLy0pKwqypAxjYCj6DsgLcYk4BUJ-RcQG5FnWWo',
+  level: 'error',
+  timestamp: '2021-04-23 15:04:59',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 15:05:16',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkyMDI2MzYsImV4cCI6MTYxOTIxMjcxNn0.CL0saLy0pKwqypAxjYCj6DsgLcYk4BUJ-RcQG5FnWWo',
+  level: 'error',
+  timestamp: '2021-04-23 15:05:19',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 15:05:36',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkyMDI2MzYsImV4cCI6MTYxOTIxMjcxNn0.CL0saLy0pKwqypAxjYCj6DsgLcYk4BUJ-RcQG5FnWWo',
+  level: 'error',
+  timestamp: '2021-04-23 15:05:36',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 15:06:52',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 15:07:40',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkyMDI2MzYsImV4cCI6MTYxOTIxMjcxNn0.CL0saLy0pKwqypAxjYCj6DsgLcYk4BUJ-RcQG5FnWWo',
+  level: 'error',
+  timestamp: '2021-04-23 15:07:41',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_dominios', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 15:08:40',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 15:10:39',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkyMDI2MzYsImV4cCI6MTYxOTIxMjcxNn0.CL0saLy0pKwqypAxjYCj6DsgLcYk4BUJ-RcQG5FnWWo',
+  level: 'error',
+  timestamp: '2021-04-23 15:10:40',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 15:14:15',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkyMDI2MzYsImV4cCI6MTYxOTIxMjcxNn0.CL0saLy0pKwqypAxjYCj6DsgLcYk4BUJ-RcQG5FnWWo',
+  level: 'error',
+  timestamp: '2021-04-23 15:14:17',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_dominios', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 15:14:33',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_dominios', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 15:15:18',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 15:15:46',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_dominios', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 15:15:46',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkyMDI2MzYsImV4cCI6MTYxOTIxMjcxNn0.CL0saLy0pKwqypAxjYCj6DsgLcYk4BUJ-RcQG5FnWWo',
+  level: 'error',
+  timestamp: '2021-04-23 15:15:50',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 15:16:28',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_dominios', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 15:16:29',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkyMDI2MzYsImV4cCI6MTYxOTIxMjcxNn0.CL0saLy0pKwqypAxjYCj6DsgLcYk4BUJ-RcQG5FnWWo',
+  level: 'error',
+  timestamp: '2021-04-23 15:16:30',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 15:20:00',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkyMDI2MzYsImV4cCI6MTYxOTIxMjcxNn0.CL0saLy0pKwqypAxjYCj6DsgLcYk4BUJ-RcQG5FnWWo',
+  level: 'error',
+  timestamp: '2021-04-23 15:20:02',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 15:33:26',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkyMDI2MzYsImV4cCI6MTYxOTIxMjcxNn0.CL0saLy0pKwqypAxjYCj6DsgLcYk4BUJ-RcQG5FnWWo',
+  level: 'error',
+  timestamp: '2021-04-23 15:33:26',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 15:34:59',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkyMDI2MzYsImV4cCI6MTYxOTIxMjcxNn0.CL0saLy0pKwqypAxjYCj6DsgLcYk4BUJ-RcQG5FnWWo',
+  level: 'error',
+  timestamp: '2021-04-23 15:34:59',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 15:35:35',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkyMDI2MzYsImV4cCI6MTYxOTIxMjcxNn0.CL0saLy0pKwqypAxjYCj6DsgLcYk4BUJ-RcQG5FnWWo',
+  level: 'error',
+  timestamp: '2021-04-23 15:35:39',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 15:36:12',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkyMDI2MzYsImV4cCI6MTYxOTIxMjcxNn0.CL0saLy0pKwqypAxjYCj6DsgLcYk4BUJ-RcQG5FnWWo',
+  level: 'error',
+  timestamp: '2021-04-23 15:36:13',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 15:36:24',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkyMDI2MzYsImV4cCI6MTYxOTIxMjcxNn0.CL0saLy0pKwqypAxjYCj6DsgLcYk4BUJ-RcQG5FnWWo',
+  level: 'error',
+  timestamp: '2021-04-23 15:36:29',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 15:51:44',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkyMDI2MzYsImV4cCI6MTYxOTIxMjcxNn0.CL0saLy0pKwqypAxjYCj6DsgLcYk4BUJ-RcQG5FnWWo',
+  level: 'error',
+  timestamp: '2021-04-23 15:51:47',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: undefined,
+  level: 'error',
+  timestamp: '2021-04-23 15:51:50',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_dominios', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 15:51:51',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: undefined,
+  level: 'error',
+  timestamp: '2021-04-23 15:52:21',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_dominios', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 15:52:21',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 15:53:27',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkyMDI2MzYsImV4cCI6MTYxOTIxMjcxNn0.CL0saLy0pKwqypAxjYCj6DsgLcYk4BUJ-RcQG5FnWWo',
+  level: 'error',
+  timestamp: '2021-04-23 15:53:30',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: undefined,
+  level: 'error',
+  timestamp: '2021-04-23 15:53:40',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_dominios', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 15:53:41',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 15:54:07',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkyMDI2MzYsImV4cCI6MTYxOTIxMjcxNn0.CL0saLy0pKwqypAxjYCj6DsgLcYk4BUJ-RcQG5FnWWo',
+  level: 'error',
+  timestamp: '2021-04-23 15:54:07',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: undefined,
+  level: 'error',
+  timestamp: '2021-04-23 15:54:24',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_dominios', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 15:54:26',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 16:00:55',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkyMDI2MzYsImV4cCI6MTYxOTIxMjcxNn0.CL0saLy0pKwqypAxjYCj6DsgLcYk4BUJ-RcQG5FnWWo',
+  level: 'error',
+  timestamp: '2021-04-23 16:00:55',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: undefined,
+  level: 'error',
+  timestamp: '2021-04-23 16:01:11',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_dominios', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 16:01:12',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 16:01:58',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkyMDI2MzYsImV4cCI6MTYxOTIxMjcxNn0.CL0saLy0pKwqypAxjYCj6DsgLcYk4BUJ-RcQG5FnWWo',
+  level: 'error',
+  timestamp: '2021-04-23 16:02:02',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: {},
+  level: 'error',
+  timestamp: '2021-04-23 16:02:03',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_dominios', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 16:02:05',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 16:02:34',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkyMDI2MzYsImV4cCI6MTYxOTIxMjcxNn0.CL0saLy0pKwqypAxjYCj6DsgLcYk4BUJ-RcQG5FnWWo',
+  level: 'error',
+  timestamp: '2021-04-23 16:02:34',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '{}',
+  level: 'error',
+  timestamp: '2021-04-23 16:02:37',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_dominios', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 16:02:39',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '{"asdasd":["asdasd","asdasd"]}',
+  level: 'error',
+  timestamp: '2021-04-23 16:02:50',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_dominios', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 16:02:50',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: '{"asdasd":"asdasd","admin":"asd"}',
+  level: 'error',
+  timestamp: '2021-04-23 16:03:11',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_dominios', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 16:03:11',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Servidor Corriendo en el puerto 9851',
+  level: 'info',
+  timestamp: '2021-04-23 17:06:47',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkyMDI2MzYsImV4cCI6MTYxOTIxMjcxNn0.CL0saLy0pKwqypAxjYCj6DsgLcYk4BUJ-RcQG5FnWWo',
+  level: 'error',
+  timestamp: '2021-04-23 17:06:49',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 17:06:49',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 17:14:57',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'login',
+  level: 'error',
+  timestamp: '2021-04-23 17:15:13',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Este roken no es valido',
+  level: 'error',
+  timestamp: '2021-04-23 17:15:14',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 17:15:17',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'login', '{"cedula":"1127579854","password":"","code_empresa":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 17:15:36',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Se desconecto',
+  level: 'error',
+  timestamp: '2021-04-23 17:15:36',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRF9VTiI6IjAwIiwiVVNVQVJJTyI6IjExMjc1Nzk4NTQiLCJDTEFWRV9TRUNVTkRBUklBIjoiIiwiTk9NQlJFIjoib3NlZGhlbHUiLCJJRF9ST0wiOiJBRE0iLCJpYXQiOjE2MTkyMTYxMzYsImV4cCI6MTYxOTIyNjIxNn0.KIyPReI0OVa5a51dhKyxYVLC4_HNwNRvC3VoX6AgBFQ',
+  level: 'error',
+  timestamp: '2021-04-23 17:15:44',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_empresa', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 17:15:47',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'Mano_de_obra', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 17:16:05',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'unidad_medida', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 17:16:06',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'get_dominios', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 17:16:11',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'Mano_de_obra', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 17:16:31',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'unidad_medida', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 17:16:31',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: 'Error ----->>> Failed to connect to 192.168.10.11\\SQL2017 in 15000ms',
+  level: 'error',
+  timestamp: '2021-04-23 17:16:46',
+  label: undefined,
+  metadata: {
+    code: 'ETIMEOUT',
+    originalError: ConnectionError: Failed to connect to 192.168.10.11\SQL2017 in 15000ms
+        at ConnectionError (C:\Users\artdecon\Documents\backend-artdecon\node_modules\tedious\lib\errors.js:13:12)
+        at Connection.connectTimeout (C:\Users\artdecon\Documents\backend-artdecon\node_modules\tedious\lib\connection.js:1195:54)
+        at Timeout._onTimeout (C:\Users\artdecon\Documents\backend-artdecon\node_modules\tedious\lib\connection.js:1157:12)
+        at listOnTimeout (internal/timers.js:554:17)
+        at processTimers (internal/timers.js:497:7) {
+      code: 'ETIMEOUT'
+    },
+    name: 'ConnectionError',
+    stack: 'ConnectionError: Failed to connect to 192.168.10.11\\SQL2017 in 15000ms\n' +
+      '    at Connection.<anonymous> (C:\\Users\\artdecon\\Documents\\backend-artdecon\\node_modules\\mssql\\lib\\tedious\\connection-pool.js:68:17)\n' +
+      '    at Object.onceWrapper (events.js:422:26)\n' +
+      '    at Connection.emit (events.js:315:20)\n' +
+      '    at Connection.EventEmitter.emit (domain.js:467:12)\n' +
+      '    at Connection.connectTimeout (C:\\Users\\artdecon\\Documents\\backend-artdecon\\node_modules\\tedious\\lib\\connection.js:1195:10)\n' +
+      '    at Timeout._onTimeout (C:\\Users\\artdecon\\Documents\\backend-artdecon\\node_modules\\tedious\\lib\\connection.js:1157:12)\n' +
+      '    at listOnTimeout (internal/timers.js:554:17)\n' +
+      '    at processTimers (internal/timers.js:497:7)'
+  }
+}
+{
+  message: `exec AAProArtdecon 'getSecciones', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 17:17:09',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'Mano_de_obra', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 17:17:14',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'unidad_medida', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 17:17:14',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: { id_unidad: '00' },
+  level: 'error',
+  timestamp: '2021-04-23 17:17:28',
+  label: undefined,
+  metadata: {}
+}
+{
+  message: `exec AAProArtdecon 'getCif', '{"id_unidad":"00"}'`,
+  level: 'warn',
+  timestamp: '2021-04-23 17:17:31',
+  label: undefined,
+  metadata: {}
+}
